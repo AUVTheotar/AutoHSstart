@@ -1,2 +1,2 @@
 # AutoHSstart
-Only for test
+Just for test
